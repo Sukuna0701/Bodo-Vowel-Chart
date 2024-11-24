@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 6.903582766439909 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 6.903582766439909 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1928309905522492 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1928309905522492 
+            xmax = 1.2673533952588127 
+            text = "/u/" 
+        intervals [3]:
+            xmin = 1.2673533952588127 
+            xmax = 1.3474616052094595 
+            text = "" 
+        intervals [4]:
+            xmin = 1.3474616052094595 
+            xmax = 1.4033534087393822 
+            text = "/u/" 
+        intervals [5]:
+            xmin = 1.4033534087393822 
+            xmax = 1.615276497123672 
+            text = "" 
+        intervals [6]:
+            xmin = 1.615276497123672 
+            xmax = 1.6874700766831554 
+            text = "/a/" 
+        intervals [7]:
+            xmin = 1.6874700766831554 
+            xmax = 1.6921277269773156 
+            text = "" 
+        intervals [8]:
+            xmin = 1.6921277269773156 
+            xmax = 1.7945960334488402 
+            text = "/e/" 
+        intervals [9]:
+            xmin = 1.7945960334488402 
+            xmax = 3.3818890008679943 
+            text = "" 
+        intervals [10]:
+            xmin = 3.3818890008679943 
+            xmax = 3.456296262942864 
+            text = "/u/" 
+        intervals [11]:
+            xmin = 3.456296262942864 
+            xmax = 3.5780536008835595 
+            text = "" 
+        intervals [12]:
+            xmin = 3.5780536008835595 
+            xmax = 3.6321679733016463 
+            text = "/u/" 
+        intervals [13]:
+            xmin = 3.6321679733016463 
+            xmax = 3.760689607794603 
+            text = "" 
+        intervals [14]:
+            xmin = 3.760689607794603 
+            xmax = 3.8215682767649506 
+            text = "/a/" 
+        intervals [15]:
+            xmin = 3.8215682767649506 
+            xmax = 3.8343653082342306 
+            text = "" 
+        intervals [16]:
+            xmin = 3.8343653082342306 
+            xmax = 3.934273031741411 
+            text = "/e/" 
+        intervals [17]:
+            xmin = 3.934273031741411 
+            xmax = 5.464893449274493 
+            text = "" 
+        intervals [18]:
+            xmin = 5.464893449274493 
+            xmax = 5.539824241904879 
+            text = "/u/" 
+        intervals [19]:
+            xmin = 5.539824241904879 
+            xmax = 5.744174817758332 
+            text = "" 
+        intervals [20]:
+            xmin = 5.744174817758332 
+            xmax = 5.820814714268823 
+            text = "/u/" 
+        intervals [21]:
+            xmin = 5.820814714268823 
+            xmax = 5.88325704146081 
+            text = "" 
+        intervals [22]:
+            xmin = 5.88325704146081 
+            xmax = 5.939455135933599 
+            text = "/a/" 
+        intervals [23]:
+            xmin = 5.939455135933599 
+            xmax = 5.945699368652798 
+            text = "" 
+        intervals [24]:
+            xmin = 5.945699368652798 
+            xmax = 6.076828255755973 
+            text = "/e/" 
+        intervals [25]:
+            xmin = 6.076828255755973 
+            xmax = 6.903582766439909 
+            text = "" 

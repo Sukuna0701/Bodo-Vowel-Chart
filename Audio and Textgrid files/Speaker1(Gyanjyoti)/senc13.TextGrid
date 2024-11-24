@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.481179138321996 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 7.481179138321996 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9288184770826889 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9288184770826889 
+            xmax = 1.0322889078081707 
+            text = "/a/" 
+        intervals [3]:
+            xmin = 1.0322889078081707 
+            xmax = 1.2215640859645396 
+            text = "" 
+        intervals [4]:
+            xmin = 1.2215640859645396 
+            xmax = 1.2897031501008323 
+            text = "/o/" 
+        intervals [5]:
+            xmin = 1.2897031501008323 
+            xmax = 1.3502712071108705 
+            text = "" 
+        intervals [6]:
+            xmin = 1.3502712071108705 
+            xmax = 1.3881262427421441 
+            text = "/o/" 
+        intervals [7]:
+            xmin = 1.3881262427421441 
+            xmax = 3.0819987804279463 
+            text = "" 
+        intervals [8]:
+            xmin = 3.0819987804279463 
+            xmax = 3.2325578066634244 
+            text = "/a/" 
+        intervals [9]:
+            xmin = 3.2325578066634244 
+            xmax = 3.4725008174701193 
+            text = "" 
+        intervals [10]:
+            xmin = 3.4725008174701193 
+            xmax = 3.537961263659458 
+            text = "/o/" 
+        intervals [11]:
+            xmin = 3.537961263659458 
+            xmax = 3.6106612881561357 
+            text = "" 
+        intervals [12]:
+            xmin = 3.6106612881561357 
+            xmax = 3.6466645335602714 
+            text = "/o/" 
+        intervals [13]:
+            xmin = 3.6466645335602714 
+            xmax = 5.394597252573579 
+            text = "" 
+        intervals [14]:
+            xmin = 5.394597252573579 
+            xmax = 5.5156990780238555 
+            text = "/a/" 
+        intervals [15]:
+            xmin = 5.5156990780238555 
+            xmax = 5.811807441454587 
+            text = "" 
+        intervals [16]:
+            xmin = 5.811807441454587 
+            xmax = 5.867448820715524 
+            text = "/o/" 
+        intervals [17]:
+            xmin = 5.867448820715524 
+            xmax = 5.946383768653417 
+            text = "" 
+        intervals [18]:
+            xmin = 5.946383768653417 
+            xmax = 5.985660036367021 
+            text = "/o/" 
+        intervals [19]:
+            xmin = 5.985660036367021 
+            xmax = 7.481179138321996 
+            text = "" 
